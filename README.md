@@ -1,4 +1,4 @@
-### Hi there 👋, Hi, I'm Kuba
+###  Hi, I'm Kuba 👋
 I'm learning test automation.
 
 Skills: Pyton / Java / Selenium / Cypress / Appium / Postman / GIT / SQL / Jira / Jenkins / Scrum / Maven / Rest Assured 
